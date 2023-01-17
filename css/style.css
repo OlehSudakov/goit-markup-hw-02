@@ -9,7 +9,6 @@ body{
 }
 .web{
 font-family: 'Raleway';
-font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.33;
@@ -21,7 +20,6 @@ color: #4D5AE5;
 
 .studio{
 font-family: 'Raleway';
-font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.33;
@@ -32,8 +30,6 @@ color: #2E2F42;
 }
 
 .header-link {
-font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -41,8 +37,6 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .contact{
-font-family: 'Roboto';
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -50,17 +44,12 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .hero-title-one{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
 .peage-button{
-font-family: 'Roboto';
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -70,8 +59,6 @@ color: #FFFFFF;
 }
 
 .hero-title{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 0.83;
@@ -79,8 +66,6 @@ color: #FFFFFF;
     color: #2E2F42;
 }
 .hero-text{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -88,17 +73,12 @@ color: #FFFFFF;
     color: #434455;
 }
 .description{
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.1;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
 .hero-title{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -106,8 +86,6 @@ color: #FFFFFF;
     color: #2E2F42;
 }
 .hero-text{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -115,8 +93,6 @@ color: #FFFFFF;
     color: #434455;
 }
 .footer-text{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -125,7 +101,6 @@ color: #FFFFFF;
 }
 .footer-studio{
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.16;
@@ -134,8 +109,6 @@ color: #FFFFFF;
     color: #F4F4FD;
 }
 .footer-text-portfolio{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -144,8 +117,6 @@ color: #FFFFFF;
 }
 
 .button-section-peage{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -153,8 +124,6 @@ color: #FFFFFF;
     color: #FFFFFF;
 }
 .button-section{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -162,8 +131,6 @@ color: #FFFFFF;
     color: #4D5AE5;
 }
 .description-section{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -171,8 +138,6 @@ color: #FFFFFF;
     color: #2E2F42;
 }
 .section-tex{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
