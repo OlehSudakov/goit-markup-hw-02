@@ -42,6 +42,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+cursor: none;
 }
 .hero-title-one{
     font-size: 56px;
